@@ -12,10 +12,6 @@ This repo is used for storage of the information related to the course ***Bioinf
 
 As long as I work hard, it will be fun!
 
-
-![wlop](https://github.com/Mockingjay525/Bioinformatics/blob/master/WLOP%20%E9%AC%BC%E5%88%80%E7%B2%BE%E7%BE%8E%E5%9B%BE%E7%89%87_%E5%BD%BC%E5%B2%B8%E5%9B%BE%E7%BD%91.jpg?raw=true)
-
-
 II. Contents
 -----
 1. Chapter I
