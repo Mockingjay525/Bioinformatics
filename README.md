@@ -13,6 +13,7 @@ This repo is used for storage of the information related to the course ***Bioinf
 II. Contents
 -----
 1. Chapter I
+![cheems](https://raw.githubusercontent.com/Mockingjay525/Bioinformatics/master/cheems.jpg)
 1. Chapter II
 1. Chapter III
 
@@ -22,7 +23,7 @@ III. Homework
 -----
 
 
-II. Contact Information
+Contact Information
 -----
 
 My websites:
